@@ -1,4 +1,4 @@
-# gitignore
+# Deep Learning - Charity Funding Predictor
 
-This respository is used for cloning .gitignore to future repos
 
+A binary classifier that is capable of predicting whether applicants will be successful if funded.
