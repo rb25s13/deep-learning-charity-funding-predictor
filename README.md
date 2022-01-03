@@ -8,7 +8,22 @@
     '       '
      \_____/
      `-----'
-	 
+
+__________________
+
+
+<details>
+<summary> Tools, Languages, & Libraries Utilized</summary>
+<li>Python</li>
+<li>Pandas</li>
+<li>TensorFlow</li>
+<li>Sklearn</li>
+<li>VS Code</li>
+<li>Jupyter Notebook</li>
+</details>
+
+__________________
+
 	 
 A binary classifier that is capable of predicting whether applicants will be successful if funded.
 
